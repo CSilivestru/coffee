@@ -13,6 +13,7 @@
     "jsonwebtoken": "4.0.0"
   },
   "dependencies": {
+    "bithound": "^0.1.0",
     "eslint": "^1.10.3"
   },
   "scripts": {

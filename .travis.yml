@@ -1,0 +1,7 @@
+install:
+  - npm install
+
+script:
+  - npm test
+  - bithound check git@github.com:CSilivestru/coffee.git
+

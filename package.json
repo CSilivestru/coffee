@@ -3,7 +3,6 @@
   "version": "0.0.0",
   "description": "I want to know what coffee is being served down the street.",
   "optionalDependencies": {
-    "@notreal/foo": "1.0.0",
     "body-parser": "^1.10.0",
     "cheerio": "^0.17.0",
     "commander": "^2.3.0",
